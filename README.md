@@ -23,6 +23,8 @@ Oh, and you might ask yourself where all the 'Els' or 'Miss Els' jokes come from
 
 *...and more!*
 
+> **Warning** MISS-ELS is not compatible with OneSync at this time.
+
 ## Requirements
 
 You need to have the following resources installed on your server:
