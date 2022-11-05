@@ -154,3 +154,8 @@ data_file 'VEHICLE_METADATA_FILE' 'vehicles.meta'
 data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta' --> mark the file as VEHICLE_VARIATION_FILE
 ```
+
+## 3. Why is one car controlling all lights?
+
+This issue comes with OneSync. Currently MISS-ELS is NOT compatible with OneSync. Herefor this issue will not be fixed any time soon.
+If you'd still want to use MISS-ELS, consider to stop using OneSync.
